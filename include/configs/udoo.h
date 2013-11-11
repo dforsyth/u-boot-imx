@@ -232,4 +232,8 @@
 #define CONFIG_CMD_CACHE
 #endif
 
+#define CONFIG_CMD_ELF
+#define CONFIG_API
+#define CONFIG_SYS_MMC_MAX_DEVICE 1
+
 #endif			       /* __CONFIG_H * */
